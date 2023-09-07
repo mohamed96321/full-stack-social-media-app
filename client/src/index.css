@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Roboto";
+  src: url('../public/assets/Roboto-Regular-webfont.woff') format('woff');
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+}
